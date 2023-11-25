@@ -1,4 +1,4 @@
-Project Title
+#Project Title
 Game Sales Analysis with SQL and Pandas
 
 Getting Started
